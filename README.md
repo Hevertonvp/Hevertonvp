@@ -3,6 +3,9 @@
 Resolvi começar a programar com a ideia de mudar de área e estou à procura de estágio.
 
 
-Para acessar meu projeto react atual: https://github.com/Hevertonvp/untitled-react-project
+Tenho 3 projetos em NODEjs/ReactJs em construção simultânea: 
+https://github.com/Hevertonvp/dashboard
+https://github.com/Hevertonvp/backend
+https://github.com/Hevertonvp/untitled-react-project
 
 (diariamente em construção!) 
