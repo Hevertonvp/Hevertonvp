@@ -1,5 +1,6 @@
-- 👋 Oi, sou o Heverton, estudante de ADS com graduação prevista para 2022.
+- 👋 Oi, sou o Heverton, graduado em análise de sistemas.
 
-Resolvi começar a programar há 3 anos, com a ideia de mudar de área e estou à procura de estágio.
+Atualmente, desenvolvo meus próprios projetos para auxilio de outras áreas em que estou envolvido, como de trading de criptomoedas.
+ Meu foco é frontend e estou sempre atualizando meu portfólio com novas tecnologias nessa área, mas consigo criar APIS básicas em ASP.Net para consumo.
 
 
